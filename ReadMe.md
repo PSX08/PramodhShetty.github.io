@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am currently working on Cross Platform File Sharing App<br>I am currently learning JavaScript<br>I am from Bengaluru, Karnataka, India<br>I am studying B.E. in RNS Institute of Technology<br><br>
+I am currently working on Cross Platform File Sharing App<br>I am currently learning JavaScript
+<br>I am from Bengaluru, Karnataka, India
+<br>I am studying B.E. in RNS Institute of Technology<br><br>
 
 
 ## 🌐 Socials:
